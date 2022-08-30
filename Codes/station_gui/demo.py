@@ -11,7 +11,7 @@ root.title("BUZ Station")
 
 #Create
 labTitle = ttk.Label(root, text = "BUZ Station", font=("impact", 60))
-btnLaunch = ttk.Button(root, text = "Launch BUZ", padding = 15)
+btnLaunch = ttk.Button(root, text = "Launch BUZ", padding = 20)
 
 
 #Show
